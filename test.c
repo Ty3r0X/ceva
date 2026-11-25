@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void){
-	printf("Hello git\n");
+	printf("Hello git! GTA6 just launched!\n");
 	return 0;
 }
